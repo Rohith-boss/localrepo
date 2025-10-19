@@ -1,2 +1,4 @@
 # this is my local repo...
-this is intial repo
+this a new local repo
+<br>
+with html and style files
